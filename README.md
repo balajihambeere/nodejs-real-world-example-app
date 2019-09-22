@@ -6,6 +6,17 @@ The main purpose of this repository is to show a design and develop real-time ap
 
 <img src="https://yt3.ggpht.com/a/AGF-l793nM79HE9zfuL0DKN5Gb-MsCM_v3nDt2S1kQ=s900-c-k-c0xffffffff-no-rj-mo" width="350" height="300">
 
+## [www.raptei.com](https://www.raptei.com/)
+
+# Features
+- Modular based Project folder structure
+- Modular based Routing
+- Authentication using passport local Strategy
+- Authorization using JWT token
+- Configure bable to complie ES6 code
+- Automation using grunt, nodemon
+
+
 # Pre-reqs
 To build and run this app locally you will need a few things:
 - Install [Node.js](https://nodejs.org/en/)
