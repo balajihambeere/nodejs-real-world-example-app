@@ -13,7 +13,7 @@ The main purpose of this repository is to show a design and develop real-time ap
 - Modular based Routing
 - Authentication using passport local Strategy
 - Authorization using JWT token
-- Configure bable to complie ES6 code
+- Configured babel to compile ES6 code
 - Automation using grunt, nodemon
 
 
