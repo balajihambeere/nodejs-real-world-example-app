@@ -8,7 +8,7 @@ import bodyParser from 'body-parser';
 
 import routes from './routes';
 
-import responseEnhancer from 'express-response-formatter';
+// import responseEnhancer from 'express-response-formatter';
 
 import passport from 'passport';
 
@@ -43,7 +43,7 @@ passport.use('signin', loginStrategy);
 passport.use(verifyToken);
 
 // Application-level middleware
-app.use(responseEnhancer());
+// app.use(responseEnhancer());
 
 app.use(passport.initialize());
 
