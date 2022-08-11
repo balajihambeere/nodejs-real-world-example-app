@@ -1,4 +1,4 @@
-# express-mongo-nodejs-typescript-realtime-app
+# RESTFUL API with Express.js, MongoDB, Node.js, Typescript Realworld Application
 The main purpose of this repository is to show a design and develop real-time application using **express.js**, **mongodb**, **mongoose.js**, **node.js**, **grunt.js** and **typescript** features, use this application as a reference when you start a new project OR you want to improve code quality of your existing application. We will try to keep this as up-to-date as possible, but community contributions and recommendations for improvements are encouraged and will be most welcome.
 
 
